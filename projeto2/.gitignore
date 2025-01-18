@@ -1,0 +1,7 @@
+out/
+.idea/
+/cmake-build-debug/
+*.iml
+
+# Extremely huge dataset cannot be uploaded to repo
+dataset/
